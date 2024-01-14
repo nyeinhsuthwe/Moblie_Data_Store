@@ -1,0 +1,23 @@
+{
+    "datacard": [
+      {
+        "id": 1,
+        "type": "internet",
+        "mb": "480 mb",
+        "price": "999ks"
+        
+      },
+      {
+        "id": 2,
+        "type": "internet",
+        "mb": "480 mb",
+        "price": "999ks"
+      },
+      {
+        "id": 3,
+        "type": "internet",
+        "mb": "480 mb",
+        "price": "999ks"
+      }
+    ]
+  }
